@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pos_Klimatologi_banjar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "objectid": 183424, "uid": "cb8a9cba-ffcc-4de5-bea0-ad80a5d6d6c4", "creator": null, "created": 1718413285000.0, "updater": null, "updated": 1718413285000.0, "nm_balai": "BALAI WILAYAH SUNGAI KALIMANTAN III", "koord_x": 114.69, "koord_y": -3.3395, "foto": null, "data_src": null, "last_sync": null, "sync_notes": null, "tgl_inspek": null, "kd_prov": null, "provinsi": "KALIMANTAN SELATAN", "kab_kota": "KAB. BANJAR", "kecamatan": "Sungai Tabuk", "kel_desa": "Sungai Tabuk Kota", "kd_kem": null, "kd_unor": null, "ko_in": null, "video": null, "peta": null, "kondisi": null, "kl_dat_das": null, "nm_dat_das": "SUNGAI TABUK", "thn_data": null, "nm_ws": "BARITO", "nm_das": "BARITO", "nama_das": "BARITO", "nm_pos_kli": "SUNGAI TABUK", "kd_ws": "04.A2.09", "awlr": null, "arr": null, "kadaster": null, "jns_alat": null, "dibang_ole": null, "pelaksana": null, "resume_dat": null, "rekam_data": null, "ket": null, "thn_buat": null, "sta_hibah": null, "urut": 123, "id": "06.15.04090020107", "kode": null, "kode_balai": "B_KAL3", "kd_das": "04.A2.09.002", "tipe_hidro": "Manual, Telemetri", "jenis_pos": "Manual, Telemetri", "updated_at": 1718409600000.0 }, "geometry": { "type": "Point", "coordinates": [ 114.69, -3.3395 ] } }
+]
+}
